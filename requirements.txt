@@ -1,0 +1,16 @@
+fastapi==0.115.6
+uvicorn==0.34.0
+pydantic==2.10.5
+xgboost==1.7.6
+scikit-learn==1.6.0
+joblib==1.4.2
+python-dotenv==1.0.1
+python-multipart==0.0.20
+wordcloud==1.8.2.2
+Pillow==9.5.0
+tqdm==4.67.1
+imbalanced-learn==0.13.0
+mealpy==2.5.1
+gensim==4.3.3
+spacy==3.8.4
+nltk==3.6.5
